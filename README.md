@@ -72,7 +72,7 @@ Sou profundamente fascinado pelo universo do hardware computacional. Desde a eng
 
 </p>
 
-##
+---
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ivesyuji/count.svg?"  />
