@@ -74,6 +74,6 @@ Sou profundamente fascinado pelo universo do hardware computacional. Desde a eng
 
 ##
 
-<img src="https://raw.githubusercontent.com/ivesyuji/ivesyuji/output/snake.svg" alt="Snake animation" />
-
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ivesyuji/count.svg?"  />
+</div>
