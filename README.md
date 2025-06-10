@@ -1,7 +1,7 @@
 # 🖥️ Ives Yuji 
 
 **`Desenvolvedor`** 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ivesyuji.ivesyuji&left_text=Visitantes"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ivesyuji.ivesyuji&left_text=Visitantes"  />
 
 Meu nome é Ives Yuji Hirose, tenho 23 anos e sou natural do Paraná. Atualmente, sou estudante de Informática na Universidade Estadual de Maringá (UEM). Minha paixão pela tecnologia se manifesta em diversas áreas, com um interesse particular em Desenvolvimento Web e Desenvolvimento de Sistemas, onde busco constantemente otimização e inovação.
 
